@@ -21,13 +21,13 @@ export const About = () => (
             <div className="timeline-item" date-is="2021">
               <h1>アジア・パシフィック大会</h1>
               <p>
-                愛知（名古屋）大会　５位入賞
+                愛知（名古屋）大会 ５位入賞
                 
               </p>
             </div>
             <div className="timeline-item" date-is="2022">
               <h1>世界大会</h1>
-              <p>タイ・バンコク大会　Division B ５位</p>
+              <p>タイ・バンコク大会 Division B ５位</p>
               
               
             </div>
