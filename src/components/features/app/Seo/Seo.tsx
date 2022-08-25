@@ -10,13 +10,13 @@ export const Seo = () => {
   return (
     <>
       <DefaultSeo
-        defaultTitle="Yuki's Blog"
-        description="WebエンジニアYukiのポートフォリオブログです。"
+        defaultTitle="Ri-one SSL"
+        description="Ri-one SSLの公式ホームページです。"
         openGraph={{
           type: 'website',
-          title: "Yuki's Blog",
+          title: "Ri-one SSL",
           description: 'blog',
-          site_name: "Yuki's Blog",
+          site_name: "Ri-one SSL",
           url: ROOT_URL,
           images: [
             {
