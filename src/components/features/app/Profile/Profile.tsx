@@ -8,14 +8,13 @@ export const Profile = () => (
       <Image
         className="object-cover w-28 h-28 rounded-full"
         alt="avatar"
-        src="/assets/79553411.jpeg"
+        src="/assets/Ri-one_image.jpg"
       />
-      <h1 className="text-2xl font-semibold text-primary-1">Yuki Ishida</h1>
+      <h1 className="text-2xl font-semibold text-primary-1">Ri-one SSL</h1>
     </div>
 
     <p className="text-primary-1 text-center">
-      I am a student at Ritsumeikan University majoring in Information Science
-      and Security.
+    We are the team of RoboCup:Small Size League at Ritsumeikan University.
     </p>
 
     <div className="flex gap-4">

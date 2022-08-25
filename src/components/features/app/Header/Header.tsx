@@ -13,7 +13,7 @@ export const Header = () => {
       <nav className="hstack justify-between">
         <Link href="/" passHref>
           <a className="text-primary-1 text-2xl md:text-3xl font-bold">
-            Yuki&apos;s Blog
+            Ri-one SSL
           </a>
         </Link>
 
