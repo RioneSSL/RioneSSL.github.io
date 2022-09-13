@@ -7,7 +7,7 @@ type Props = {
   tags: string[];
 };
 
-export const Tags: React.VFC<Props> = ({ tags }) => {
+export const Contact: React.VFC<Props> = ({ tags }) => {
   return (
     <MainLayout
       className="lg:block"
