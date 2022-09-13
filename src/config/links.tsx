@@ -10,4 +10,5 @@ export const links: LinkType[] = [
   { name: 'About', href: '/about', icon: <AiOutlineInfoCircle /> },
   { name: 'Blog', href: '/posts/page/1/', icon: <CgNotes /> },
   { name: 'Tags', href: '/tags', icon: <FiTag /> },
+  { name: 'Contact', href: '/contact', icon: <FiTag /> },
 ];
