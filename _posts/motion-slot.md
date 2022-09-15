@@ -6,8 +6,6 @@ date: '2022-08-24'
 ogImage:
   url: '/assets/blog/dynamic-routing/robot.jpg'
 tags:
-  - 'Next'
-  - 'React'
   - 'ブログ'
 ---
 
