@@ -2,7 +2,7 @@
 title: 'Japan-Open 2022'
 excerpt: ''
 coverImage: '/assets/blog/dynamic-routing/robot.jpg'
-date: '2022-09-17'
+date: '2022-09-21'
 ogImage:
   url: '/assets/blog/dynamic-routing/robot.jpg'
 tags:
@@ -11,21 +11,23 @@ tags:
 
 ## 概要 Outline
 
-- Robocup Japan Open 2022に出場しました
-- 
+- Robocup Japan Open 2022 (SSL)に出場しました！
+- We participated in Robocup Japan Open 2022 (SSL)！
 
 ### 
 
 - 
-- x
-
-### 
-
 - 
+
+### 余談 digression
+
+- 台風14号の影響で公共交通機関の計画運休し、予定通りに帰ることができ図、延泊を余儀なくされました。
+- ロボットの運搬についても心配されましたがなんとかホテルまで無事に戻ることができました。
+- 台風の被害はなく延泊の後、時間のある人たちで愛知観光（？）を楽しんで帰りました！
 - 
 
 ## まとめ　construction
-- これからはこのサイトにRi-one SSLでやっていることをまったり更新していけたらなと思います。
-- ではまた👋
-- From now on, We hope to update this site with what we are doing at Ri-one SSL.
-- See you.
+- 今からはしばらく大会の予定がないので、実験しながらロボットの改良をしていきたいと思います。
+- バイバイ👋
+- 
+- 
