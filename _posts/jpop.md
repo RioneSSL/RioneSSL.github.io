@@ -14,12 +14,14 @@ tags:
 - Robocup Japan Open 2022 (SSL)に出場しました！
 - We participated in Robocup Japan Open 2022 (SSL)！
 
-### 
+### 大会結果　Result of game
 
 - 
 - 
 
-### 余談 digression
+### 感想　Thoughts
+
+### 余談 Digression
 
 - 台風14号の影響で公共交通機関の計画運休し、予定通りに帰ることができ図、延泊を余儀なくされました。
 - ロボットの運搬についても心配されましたがなんとかホテルまで無事に戻ることができました。
@@ -30,4 +32,4 @@ tags:
 - 今からはしばらく大会の予定がないので、実験しながらロボットの改良をしていきたいと思います。
 - バイバイ👋
 - 
-- 
+- bye-bye
