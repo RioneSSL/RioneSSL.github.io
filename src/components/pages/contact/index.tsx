@@ -50,8 +50,6 @@ export const About = () => (
             </div>
           </div>
         </div>
-        <iframe title="This is contact form" />
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfMP6EbG0xmZq7D0HUWyuNjhZfDQ9iHPJg9Sd-55zPgnzbNgA/viewform?embedded=true"></iframe>
       </>
     }
   />
