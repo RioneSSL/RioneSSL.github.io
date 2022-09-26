@@ -50,6 +50,7 @@ export const About = () => (
             </div>
           </div>
         </div>
+        <noscript><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScm9baJwIMIF11X45RDSWrZRrepmaRclnnWhpUFOXocYzNibQ/viewform?embedded=true" >読み込んでいます…</iframe></noscript>
       </>
     }
   />
