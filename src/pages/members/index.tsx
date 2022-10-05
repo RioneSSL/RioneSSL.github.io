@@ -1,5 +1,5 @@
-import { About } from '@/components/pages/about';
+import { Members } from '@/components/pages/members';
 
-const View: React.VFC = () => <About />;
+const View: React.VFC = () => <Members />;
 
 export default View;
