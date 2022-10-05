@@ -12,5 +12,4 @@ export const links: LinkType[] = [
   { name: 'Blog', href: '/posts/page/1/', icon: <CgNotes /> },
   { name: 'Tags', href: '/tags', icon: <FiTag /> },
   { name: 'Contact', href: '/contact', icon: <FiTag /> },
-  { name: 'Photogarary', href: '/photogarary', icon: <FiTag /> },
 ];

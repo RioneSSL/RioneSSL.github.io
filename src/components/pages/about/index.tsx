@@ -26,9 +26,10 @@ export const About = () => (
               </p>
             </div>
             <div className="timeline-item" date-is="2022">
-              <h1>世界大会</h1>
-              <p>タイ・バンコク大会 Division B ５位</p>
-              
+              <h1>７月</h1>
+              <p>タイ・バンコク大会   Division B ５位</p>
+              <h1>９月</h1>
+              <p>Robocup JpanOpen 2022    Division A ３位</p>
               
             </div>
             <div className="timeline-item" date-is="2023"></div>
