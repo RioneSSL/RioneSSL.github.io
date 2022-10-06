@@ -14,7 +14,15 @@ export const Members = () => (
             <div className="name"><h1>メンバーA</h1></div>
           </div>
           <h2 className="text-2xl font-bold text-primary-1 mb-6">ハード班 Mechanical Engineer</h2>
+          <div className="ssl_member">
+            <div className="thum"><img src="https://avatars.githubusercontent.com/u/71633059?s=280&v=4" alt="メンバーA" /></div>
+            <div className="name"><h1>メンバーB</h1></div>
+          </div>
           <h2 className="text-2xl font-bold text-primary-1 mb-6">回路班 Electrical Engineer</h2>
+          <div className="ssl_member">
+            <div className="thum"><img src="https://avatars.githubusercontent.com/u/71633059?s=280&v=4" alt="メンバーA" /></div>
+            <div className="name"><h1>メンバーC</h1></div>
+          </div>
         </div>
       </>
     }
