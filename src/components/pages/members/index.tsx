@@ -9,9 +9,10 @@ export const Members = () => (
         <Profile />
         <div className="school p-4 lg:p-10 bg-primary-1">
           <h2 className="text-2xl font-bold text-primary-1 mb-6">ソフト班 Software Engineer</h2>
-          <div className='w-25 p-3'>
-            <div><img src="https://avatars.githubusercontent.com/u/71633059?s=280&v=4" className='rounded' alt="メンバーA" /></div>
-            <div><p>メンバー</p></div>
+          <div className='ssl_member'>
+            <div className='member_face'><img src="https://avatars.githubusercontent.com/u/71633059?s=280&v=4" className='rounded' alt="メンバーA" /></div>
+            <div className='member_name'><h1>メンバー</h1></div>
+            <div className='member_introduction'>ハード班、回路班のメンバーでもある</div>
           </div>
           <h2 className="text-2xl font-bold text-primary-1 mb-6 mt-6">ハード班 Mechanical Engineer</h2>
           
