@@ -12,9 +12,12 @@ export const Members = () => (
             <h2 className="text-2xl font-bold text-primary-1 mb-1">ソフト班 Software Engineer</h2>
             <div className='ssl_members'>
               <div className='ssl_member'>
-                <div className='member_face'><img src="public/assets/memmbers/tamagoham.PNG" className='rounded' alt="メンバーA" /></div>
+                <div className='member_face'><img src="/assets/memmbers/tamagoham.PNG" className='rounded' alt="メンバーA" /></div>
                 <div className='member_name'>Naitou Yuzuru</div>
-                <div className='member_introduction'>ハード班、回路班のメンバーでもある。あああああああああああああああああああああ</div>
+                <div className='member_introduction'>
+                  <div>Ri-oneの団体長</div>
+                  SSLのロボットとの通信を担当しています！
+                </div>
               </div>
               <div className='ssl_member'>
                 <div className='member_face'><img src="https://avatars.githubusercontent.com/u/71633059?s=280&v=4" className='rounded' alt="メンバーA" /></div>
