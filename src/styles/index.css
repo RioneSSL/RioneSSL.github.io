@@ -240,6 +240,12 @@ p {
   font-size:20px;
   font-weight:bold;
 }
+
+.member_th{
+  text-align:center;
+  font-size:20px;
+  font-weight:bold;
+}
 .member_introduction{
   margin:10px 20px 0 20px;
 }
