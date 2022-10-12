@@ -39,15 +39,44 @@ export const Members = () => (
           </div>
           <div className='ssl_team'>
             <h2 className="text-2xl font-bold text-primary-1 mb-6 mt-6 mb-6">ハード班 Mechanical Engineer</h2>
+            <div className='ssl_member'>
+                <div className='member_face'><img src="https://cdn.discordapp.com/attachments/769834156036980736/912934749272682496/IMG_1784.jpg" className='rounded' alt="メンバーA" /></div>
+                <div className='member_name'>Matsumoto</div>
+                <div className='member_th'>17期</div>
+                <div className='member_introduction'>ソフト、回路も担当しています！</div>
+              </div>
               <div className='ssl_member'>
                 <div className='member_face'><img src="/assets/memmbers/tomix.jpg" className='rounded' alt="メンバーA" /></div>
                 <div className='member_name'>Tomioka Daiki</div>
                 <div className='member_th'>18期</div>
                 <div className='member_introduction'>ソフト、回路も担当しています！</div>
               </div>
+              <div className='ssl_member'>
+                <div className='member_face'><img src="https://avatars.githubusercontent.com/u/71633059?s=280&v=4" className='rounded' alt="メンバーA" /></div>
+                <div className='member_name'>Murai Ryosuke</div>
+                <div className='member_th'>19期</div>
+                <div className='member_introduction'>ソフト、回路も担当しています！</div>
+              </div><div className='ssl_member'>
+                <div className='member_face'><img src="https://avatars.githubusercontent.com/u/71633059?s=280&v=4" className='rounded' alt="メンバーA" /></div>
+                <div className='member_name'>Otake Syutaro</div>
+                <div className='member_th'>19期</div>
+                <div className='member_introduction'>ソフト、回路も担当しています！</div>
+              </div>
           </div>
           <div className='ssl_team'>
             <h2 className="text-2xl font-bold text-primary-1 mb-6 mt-6 mb-6">回路班 Electrical Engineer</h2>
+             <div className='ssl_member'>
+                <div className='member_face'><img src="https://avatars.githubusercontent.com/u/71633059?s=280&v=4" className='rounded' alt="メンバーA" /></div>
+                <div className='member_name'>メンバー</div>
+                <div className='member_th'>19期</div>
+                <div className='member_introduction'>ハード班、回路班のメンバーでもある。あああああああああああああああああああああ</div>
+              </div>
+              <div className='ssl_member'>
+                <div className='member_face'><img src="https://avatars.githubusercontent.com/u/71633059?s=280&v=4" className='rounded' alt="メンバーA" /></div>
+                <div className='member_name'>メンバー</div>
+                <div className='member_th'>19期</div>
+                <div className='member_introduction'>ハード班、回路班のメンバーでもある。あああああああああああああああああああああ</div>
+              </div>
           </div>
         </div>
       </>
