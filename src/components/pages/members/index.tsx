@@ -19,9 +19,10 @@ export const Members = () => (
               </div>
               
               <div className='ssl_member'>
-                <div className='member_face'><img src="https://avatars.githubusercontent.com/u/71633059?s=280&v=4" className='rounded' alt="メンバーA" /></div>
-                <div className='member_name'>メンバー</div>
-                <div className='member_introduction'>ハード班、回路班のメンバーでもある。あああああああああああああああああああああ</div>
+                <div className='member_face'><img src="/assets/memmbers/yuu.jpg" className='rounded' alt="メンバーA" /></div>
+                <div className='member_name'>Yoshinaga Itsuki</div>
+                <div className='member_th'>19期 </div>
+                <div className='member_introduction'>次世代のAIを作って行きたいです！</div>
               </div>
               <div className='ssl_member'>
                 <div className='member_face'><img src="https://avatars.githubusercontent.com/u/71633059?s=280&v=4" className='rounded' alt="メンバーA" /></div>
