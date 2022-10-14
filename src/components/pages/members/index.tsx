@@ -13,7 +13,7 @@ export const Members = () => (
             <div className='ssl_members'>
               <div className='ssl_member'>
                 <div className='member_face'><img src="/assets/memmbers/tamagoham.PNG" className='rounded' alt="Naitou Yuzuru" /></div>
-                <div className='member_name'>Naitou Yuzuru</div>
+                <div className='member_name'>Naito Yuzuru</div>
                 <div className='member_th'>18期 （Ri-one団体長）</div>
                 <div className='member_introduction'>SSLのロボットとの通信を担当しています!</div>
               </div>
@@ -50,7 +50,7 @@ export const Members = () => (
                 <div className='member_introduction'>ソフト、回路も担当しています！</div>
               </div>
               <div className='ssl_member'>
-                <div className='member_face'><img src="https://avatars.githubusercontent.com/u/71633059?s=280&v=4" className='rounded' alt="メンバーA" /></div>
+                <div className='member_face'><img src="/assets/memmbers/omrice.jpg" className='rounded' alt="メンバーA" /></div>
                 <div className='member_name'>Murai Ryosuke</div>
                 <div className='member_th'>19期</div>
                 <div className='member_introduction'>ソフト、回路も担当しています！</div>
